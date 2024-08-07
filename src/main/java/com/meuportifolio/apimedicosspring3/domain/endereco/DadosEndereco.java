@@ -1,4 +1,4 @@
-package com.meuportifolio.apimedicosspring3.dto;
+package com.meuportifolio.apimedicosspring3.domain.endereco;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;

@@ -1,4 +1,4 @@
-package com.meuportifolio.apimedicosspring3.dto.enumeration;
+package com.meuportifolio.apimedicosspring3.enumeration;
 
 public enum Especialidade {
     ORTOPEDIA,

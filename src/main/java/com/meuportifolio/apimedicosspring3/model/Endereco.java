@@ -1,6 +1,6 @@
 package com.meuportifolio.apimedicosspring3.model;
 
-import com.meuportifolio.apimedicosspring3.dto.DadosEndereco;
+import com.meuportifolio.apimedicosspring3.domain.endereco.DadosEndereco;
 import jakarta.persistence.Embeddable;
 import lombok.*;
 

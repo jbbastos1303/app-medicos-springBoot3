@@ -1,6 +1,6 @@
-package com.meuportifolio.apimedicosspring3.dto.medico;
+package com.meuportifolio.apimedicosspring3.domain.medico;
 
-import com.meuportifolio.apimedicosspring3.dto.enumeration.Especialidade;
+import com.meuportifolio.apimedicosspring3.enumeration.Especialidade;
 import com.meuportifolio.apimedicosspring3.model.Medico;
 
 public record DadosListagemMedico(

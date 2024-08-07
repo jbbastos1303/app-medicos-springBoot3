@@ -1,6 +1,6 @@
-package com.meuportifolio.apimedicosspring3.dto.medico;
+package com.meuportifolio.apimedicosspring3.domain.medico;
 
-import com.meuportifolio.apimedicosspring3.dto.DadosEndereco;
+import com.meuportifolio.apimedicosspring3.domain.endereco.DadosEndereco;
 import jakarta.validation.constraints.NotNull;
 
 public record DadosAtualizaMedico(

@@ -1,4 +1,4 @@
-package com.meuportifolio.apimedicosspring3.dto.paciente;
+package com.meuportifolio.apimedicosspring3.domain.paciente;
 
 import com.meuportifolio.apimedicosspring3.model.Paciente;
 

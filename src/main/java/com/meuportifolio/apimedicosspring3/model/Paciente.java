@@ -1,7 +1,7 @@
 package com.meuportifolio.apimedicosspring3.model;
 
-import com.meuportifolio.apimedicosspring3.dto.paciente.DadosAtualizacaoPaciente;
-import com.meuportifolio.apimedicosspring3.dto.paciente.DadosCadastroPaciente;
+import com.meuportifolio.apimedicosspring3.domain.paciente.DadosAtualizacaoPaciente;
+import com.meuportifolio.apimedicosspring3.domain.paciente.DadosCadastroPaciente;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

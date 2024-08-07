@@ -1,8 +1,8 @@
 package com.meuportifolio.apimedicosspring3.model;
 
-import com.meuportifolio.apimedicosspring3.dto.medico.DadosAtualizaMedico;
-import com.meuportifolio.apimedicosspring3.dto.medico.DadosCadastroMedico;
-import com.meuportifolio.apimedicosspring3.dto.enumeration.Especialidade;
+import com.meuportifolio.apimedicosspring3.domain.medico.DadosAtualizaMedico;
+import com.meuportifolio.apimedicosspring3.domain.medico.DadosCadastroMedico;
+import com.meuportifolio.apimedicosspring3.enumeration.Especialidade;
 import jakarta.persistence.*;
 import lombok.*;
 
