@@ -1,6 +1,6 @@
 package com.meuportifolio.apimedicosspring3.domain.medico;
 
-import com.meuportifolio.apimedicosspring3.enumeration.Especialidade;
+import com.meuportifolio.apimedicosspring3.domain.enumeration.Especialidade;
 import com.meuportifolio.apimedicosspring3.model.Endereco;
 import com.meuportifolio.apimedicosspring3.model.Medico;
 

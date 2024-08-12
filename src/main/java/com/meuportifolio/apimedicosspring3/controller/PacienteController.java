@@ -5,7 +5,7 @@ import com.meuportifolio.apimedicosspring3.domain.paciente.DadosCadastroPaciente
 import com.meuportifolio.apimedicosspring3.domain.paciente.DadosDetalhamentoPaciente;
 import com.meuportifolio.apimedicosspring3.domain.paciente.DadosListagemPaciente;
 import com.meuportifolio.apimedicosspring3.model.Paciente;
-import com.meuportifolio.apimedicosspring3.repository.PacienteRepository;
+import com.meuportifolio.apimedicosspring3.model.repository.PacienteRepository;
 import jakarta.validation.Valid;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

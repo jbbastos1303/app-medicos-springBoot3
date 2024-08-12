@@ -1,7 +1,7 @@
 package com.meuportifolio.apimedicosspring3.domain.medico;
 
 import com.meuportifolio.apimedicosspring3.domain.endereco.DadosEndereco;
-import com.meuportifolio.apimedicosspring3.enumeration.Especialidade;
+import com.meuportifolio.apimedicosspring3.domain.enumeration.Especialidade;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

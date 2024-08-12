@@ -1,4 +1,4 @@
-package com.meuportifolio.apimedicosspring3.repository;
+package com.meuportifolio.apimedicosspring3.model.repository;
 
 import com.meuportifolio.apimedicosspring3.model.Medico;
 import io.micrometer.observation.ObservationFilter;

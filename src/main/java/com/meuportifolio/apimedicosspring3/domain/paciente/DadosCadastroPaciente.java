@@ -16,9 +16,11 @@ public record DadosCadastroPaciente (
         @NotBlank(message = "{telefone.obrigatorio}")
         String telefone,
         @NotBlank(message = "{cpf.obrigatorio}")
-        @Pattern(regexp = "\\d{3}\\.?\\d{3}\\.?\\d{3}\\-?\\d{2}")
+        @Pattern(regexp = "\\d{11}", message = "{cpf.invalido}")
         String cpf,
-        @NotNull @Valid DadosEndereco endereco
+        @NotNull(message = "{endereco.obrigatorio}")
+        @Valid
+        DadosEndereco endereco
     )
 {
 
